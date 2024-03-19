@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient( black,white);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+img{
+    height: 350px;
+    width: 350px;
+    margin-left: 585px;
+    margin-top: 50px;
+}
+input[type="submit"]{
+    height: 50px;
+    width: 100px;
+    background: lavender;
+    color: black;
+}
+div{
+    margin-left: 675px;
+    margin-top: 20px;
+}
+
